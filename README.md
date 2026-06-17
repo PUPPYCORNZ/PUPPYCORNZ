@@ -3,7 +3,7 @@
 <sub>banner credits to ringsan-archive on tumblr.</sub>
 
   
-  ## <p align="center"> read [this.](https://docs.google.com/document/u/0/d/1LLWlxaCnNoKZSVDav6QRKuumJ9pj_Dw4fwIL35SDWK4/mobilebasic) its a doc
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ttisha&label=microphones&color=667021" alt="ttisha" />
 </p>
